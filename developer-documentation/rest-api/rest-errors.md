@@ -1,0 +1,2 @@
+# REST Errors
+
