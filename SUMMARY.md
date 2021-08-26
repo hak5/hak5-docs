@@ -47,6 +47,7 @@
   * [Configuring ICS on Linux](faq/establishing-an-internet-connection/configuring-ics-on-linux.md)
   * [Configuring ICS on Windows](faq/establishing-an-internet-connection/configuring-ics-on-windows.md)
   * [Configuring a USB Ethernet Adapter](faq/establishing-an-internet-connection/configuring-a-usb-ethernet-adapter.md)
+* [Password Reset](faq/password-reset.md)
 * [Factory Reset and Recovery](faq/factory-reset-and-recovery.md)
 * [WiFi Pineapple Beta Updates](faq/untitled.md)
 * [Compatible 802.11ac Adapters](faq/compatible-802.11ac-adapters.md)
