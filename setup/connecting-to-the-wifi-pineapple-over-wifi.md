@@ -10,3 +10,5 @@ The WiFi Pineapple serves an Open AP for you to connect to for the purposes of c
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
+After connecting to the AP, you will receive an IP via DHCP from the WiFi Pineapple.
+
