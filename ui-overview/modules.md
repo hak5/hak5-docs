@@ -22,7 +22,7 @@ A list of available modules that you haven't installed, or to view updates for i
 The packages tab allows you to browse a variety of available tools and drivers for your WiFi Pineapple. These packages often contain a command line utility to use, which can be accessed via SSH or via the Web Terminal.
 
 {% hint style="info" %}
-You can press the back-tick key on your keyboard to open the Web Terminal.
+Press the backtick \(`````\) key on your keyboard to open the Web Terminal.
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%2821%29.png)
