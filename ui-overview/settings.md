@@ -18,8 +18,6 @@ The **Networking** tab shows easy to use cards for configuring a Client connecti
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
-
-
 ## **Advanced**
 
 The **Advanced** tab shows options to change the current update channel for opting into Beta firmware releases. From here you can also access experimental features such as Censorship \(hiding sensitive information in the UI\) and Cartography \(2D or 3D map of Recon data\).
