@@ -23,7 +23,6 @@
 ## Developer Documentation
 
 * [REST API](developer-documentation/rest-api/README.md)
-  * [Untitled](developer-documentation/rest-api/untitled.md)
   * [REST Errors](developer-documentation/rest-api/rest-errors.md)
   * [API Authentication](developer-documentation/rest-api/api-authentication.md)
   * [Notifications](developer-documentation/rest-api/notifications.md)
