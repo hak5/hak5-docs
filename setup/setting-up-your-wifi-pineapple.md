@@ -11,4 +11,3 @@ Once you've connected to the WiFi Pineapple and it has fully booted, you will be
 ## Getting the latest firmware via Over-The-Air
 
 ## Uploading the firmware manually
-

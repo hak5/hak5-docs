@@ -6,4 +6,4 @@ description: This guide teaches the basics of connecting to the WiFi Pineapple o
 
 ## Configuration via GUI
 
-1. 
+1.

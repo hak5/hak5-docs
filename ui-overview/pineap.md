@@ -12,17 +12,17 @@ The main PineAP page is used to manage the PineAP Daemon settings and status. Yo
 
 On the right hand side, you can find the current SSID pool. These SSIDs can be automatically collected in the Passive and Active modes, or by selecting the "Capture SSIDs to Pool" option in Advanced. You can use the field below and the Add, Remove and Clear buttons to manually add or remove SSIDs.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](<../.gitbook/assets/image (8).png>)
 
 ## Clients
 
 The clients page provides two views for clients, split into connected clients and previous clients. From the **Connected Clients** you can view information about each connected client, including MAC, IP Address and the SSID they associated to, as well as the ability to kick them from the network.
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](<../.gitbook/assets/image (9).png>)
 
 Switching to the **Previous Clients** tab shows you a record of all previous associations to the rogue access points hosted by the WiFi Pineapple. Clients that have not yet disconnected from the network have a disconnect time of "Unavailable".
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](<../.gitbook/assets/image (11).png>)
 
 ## Filtering
 
@@ -32,13 +32,13 @@ With the client filter you may limit the scope of engagement by choosing what de
 
 With the SSID filter you may specify the spoofed networks for which the WiFi Pineapple will allow associations. Allow associations for only specifically listed SSIDs, or any SSID that isn't specifically listed.
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](<../.gitbook/assets/image (12).png>)
 
 ## Enterprise
 
 The **Enterprise** tab allows you to configure a WPA-EAP Enterprise rogue access point. To begin, fill in the form to generate the EAP configuration and certificates.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (13).png>)
 
 Once the certificate has been generated, you'll see easy to use options to configure the rogue enterprise access point, and view the challenge data any connected clients provide.
 
@@ -46,5 +46,4 @@ Once the certificate has been generated, you'll see easy to use options to confi
 
 The **Access Points** tab allows you to configure the other access points hosted on the WiFi Pineapple: The **Management AP**, **Open AP**, and **Evil WPA/2 AP**.
 
-![](../.gitbook/assets/image%20%2817%29.png)
-
+![](<../.gitbook/assets/image (14).png>)
