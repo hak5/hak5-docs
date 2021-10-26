@@ -10,16 +10,16 @@ Start by opening the Terminal emulator for your Linux distribution. On Ubuntu, G
 
 Once the Terminal is open, get the WP7.sh script, and mark it as executable with `chmod`.
 
-![](<../../.gitbook/assets/image (36).png>)
+![](<../../.gitbook/assets/image (36) (1).png>)
 
 Once you've done that, execute the script as root, with `sudo ./wp7.sh`.
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../.gitbook/assets/image (34) (1).png>)
 
 ### Guided Setup Mode
 
 In this mode, the ICS script will try to automatically determine which interface is the WiFi Pineapple, and what your current network settings are. To do this, press **G** on your keyboard and follow the on-screen instructions.
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (35) (1).png>)
 
 Now you can press **C** to connect.
