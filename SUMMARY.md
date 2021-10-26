@@ -39,8 +39,9 @@
   * [Untitled](developer-documentation/python-api/untitled.md)
 * [Contributing to the Module Repository](developer-documentation/contributing-to-the-module-repository.md)
 
-## FAQ / Troubleshooting <a id="faq"></a>
+## FAQ / Troubleshooting <a href="faq" id="faq"></a>
 
+* [MacOS Support](faq/macos-support.md)
 * [Establishing an Internet Connection](faq/establishing-an-internet-connection/README.md)
   * [Configuring a Client Mode Connection](faq/establishing-an-internet-connection/configuring-a-client-mode-connection.md)
   * [Configuring ICS on Linux](faq/establishing-an-internet-connection/configuring-ics-on-linux.md)
@@ -55,4 +56,3 @@
 
 * [MK7 LED Mod Installation](extras/untitled.md)
 * [MK7 Kismet Case Installation](extras/mk7-kismet-case-installation.md)
-
