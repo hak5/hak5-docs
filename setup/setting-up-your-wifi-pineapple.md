@@ -22,7 +22,7 @@ Continuing withing the **Setup by USB-C Ethernet** option will still allow you t
 
 Next, connect to an Access Point you know the credentials to. Doing this will establish an internet connection for the WiFi Pineapple, and the latest firmware will be automatically downloaded.
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (1).png>)
 
 {% hint style="warning" %}
 Only WPA2, WPA and Open networks are currently supported in the stager.
@@ -30,7 +30,7 @@ Only WPA2, WPA and Open networks are currently supported in the stager.
 
 After the connection is successfully established, the firmware will be automatically downloaded and flashed to your WiFi Pineapple. Once the upgrade is complete, you will be able to access the WiFi Pineapple at https://172.16.42.1:1471 again.
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (35) (1).png>)
 
 ## Uploading the firmware manually
 
@@ -38,7 +38,7 @@ As an alternative to getting the firmware over-the-air, you may choose to upload
 
 To start, begin by downloading the latest firmware from the [Hak5 Download Portal](htps://downloads.hak5.org). The latest releases are always at the top of the table, and highlighted blue.
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
 Once the file is downloaded, verify the SHA256 sum with the one listed on the download portal.
 
